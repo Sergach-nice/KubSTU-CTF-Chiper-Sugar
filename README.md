@@ -57,7 +57,6 @@ PORT = 1337             # CTF server port
 ```bash
 python3 client.py
 ```
-Connects to the server, completes the handshake,  
 ---
 ## Team
 
