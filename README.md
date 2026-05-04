@@ -1,8 +1,3 @@
-# KubSTU-CTF-Chiper-Sugar
-CTF KubSTU — "Сахар" | Encrypted shell client (AES-256-CBC).
-
----
-
 # Cipher "Сахар" — CTF Shell Client
 
 > **CTF:** KubSTU &nbsp;|&nbsp; **Team:** DarkHoleTeam &nbsp;|&nbsp; **Category:** Network / Crypto
