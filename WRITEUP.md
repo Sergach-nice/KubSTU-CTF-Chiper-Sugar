@@ -11,8 +11,8 @@
 > Sugar Capybara Talks - a group of capybaras from a secret unit encrypts their communications with a proprietary protocol.
 > The PCAP contains their intercepted session. They are communicating with some kind of command server.
 >
-> `nc 217.26.29.80:31337`
-> `nc 62.113.108.12:31337`
+> `nc TARGET_HOST:31337`
+> `nc TARGET_HOST:31337`
 
 ---
 
