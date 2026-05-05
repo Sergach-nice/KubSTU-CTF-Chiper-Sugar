@@ -135,7 +135,7 @@ ERR: invalid frame             # server rejected the message or its format
 | Protocol | `SUGAR_PROTOCOL v1.0` |
 | Salt | `a3f7c9b1e2d45608` |
 | Cipher | `AES-256-CBC` |
-| KDF | `SHA256(PASSPHRASE || SALT)` |
+| KDF | `SHA256(PASSPHRASE \| SALT)` |
 | Total streams | 344 |
 
 ---
