@@ -1,6 +1,10 @@
 # Cipher "Сахар" — CTF Shell Client
 
+[read witeup](WRITEUP.md)
+
 > **CTF:** KubSTU &nbsp;|&nbsp; **Team:** DarkHoleTeam &nbsp;|&nbsp; **Category:** Network / Crypto
+
+
 
 > ⚠️ **Public Release Notice**  
 > This code has been sanitized for public release.  
